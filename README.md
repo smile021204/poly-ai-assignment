@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm install`
 
-To initialize the React environment.\
+To initialize the React environment.
 
 ### `npm start`
 
